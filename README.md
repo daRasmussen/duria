@@ -1,3 +1,4 @@
 # [duria.se](https://duria.se)
-En WGIS applikation som tillåter 
-<br> rapportering av väghinder. 
+# Duria
+Denna webb applikation tillåter rapportering om vägbommar.
+Användargränssnittet har evaluerats i ett användbarhetstest.
